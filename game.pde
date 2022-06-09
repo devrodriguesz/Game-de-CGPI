@@ -18,8 +18,7 @@ void game() {
 
   // pegando comida
   if (sn[0].x == food.x && sn[0].y == food.y) {
-    pts += 1;
-    top += 4;
+    pts += 15;
     if (pts > top) top = pts;
     piece();
   }

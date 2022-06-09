@@ -11,8 +11,8 @@ void keyPressed() {
   };
   if (keyCode == 51) { 
     cor_cobra = color(52, 205, 117);
+    frameRate(15);
     start = true;
-      frameRate(15);
   };
 
 
