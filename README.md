@@ -83,7 +83,7 @@ $ git clone https://github.com/Rafael-Yokoyama/Projeto-de-CGPI.git
 
 - baixe o zip <br>
  
-  <img src=".github\zip.png" width="600px;" alt="Foto "/> <br>
+  <img src=".\zip.png" width="600px;" alt="Foto "/> <br>
  
 ## 🖥️ Metodologias 
 <p> Foi desenvolvido o jogo da cobrinha dentro da ferramenta de desenvolvimento processing, foram desenvolvidas imagens para a navegação do jogo com informações sobre a passagem de uma tela para outra através de teclas selecionadas para interagir com o jogo e feito funções de rotação , função para pressionar a tela e inicar o jogo, função para a cobra comer a comida , função para mutar e desmutar a música entre outras .
