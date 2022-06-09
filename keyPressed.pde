@@ -7,10 +7,12 @@ void keyPressed() {
   if (keyCode == 50) { 
     cor_cobra = color(255, 255, 255);
     start = true;
+       frameRate(10);  frameRate(10);
   };
   if (keyCode == 51) { 
     cor_cobra = color(52, 205, 117);
     start = true;
+      frameRate(15);
   };
 
 
