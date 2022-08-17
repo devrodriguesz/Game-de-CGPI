@@ -131,7 +131,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
      <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/60399364?v=4" width="140px;" alt="Foto "/><br>
+        <img src="https://avatars.githubusercontent.com/u/110337546?s=400" width="140px;" alt="Foto "/><br>
         <sub>
           <b> Emerson </br>
         </sub>
